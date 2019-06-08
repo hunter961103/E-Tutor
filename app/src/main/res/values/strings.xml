@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Tutor</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialogtakepicture1">Take picture?</string>
+    <string name="dialogtakepicture2">Make sure to use your own picture</string>
+    <string name="registrationinprogress">Registration in progress</string>
+    <string name="registernewaccount">Register new account</string>
+    <string name="registerfor">Register for</string>
+    <string-array name="subject">
+        <item>All</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+</resources>
